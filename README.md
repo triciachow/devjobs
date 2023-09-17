@@ -1,4 +1,4 @@
-# This Project is Build with React Native
+# This Project is Built with React Native
 
 This project was done for the University of London, CM3050 Mobile Development module.
 
@@ -14,9 +14,12 @@ git clone https://github.com/triciachow/devjobs.git
 
 ```sh
 // Ensure you are at the project root folder
-npm install
+cd devjobs
 
 // Then run:
+npm install
+
+// Lastly run:
 npm start
 ```
 
