@@ -12,14 +12,18 @@ git clone https://github.com/triciachow/devjobs.git
 
 2. To launch the app:
 
-```sh
-// Ensure you are at the project root folder
+```
+# Ensure you are at the project root folder
 cd devjobs
+```
 
-// Then run:
+```
+# Then run:
 npm install
+```
 
-// Lastly run:
+```
+# Lastly run:
 npm start
 ```
 
