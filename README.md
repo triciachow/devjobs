@@ -10,20 +10,21 @@ This project was done for the University of London, CM3050 Mobile Development mo
 git clone https://github.com/triciachow/devjobs.git
 ```
 
-2. To launch the app:
+2. Ensure you are at the project root folder
 
 ```
-# Ensure you are at the project root folder
 cd devjobs
 ```
 
+3. Install dependencies
+
 ```
-# Then run:
 npm install
 ```
 
+4. Start the app:
+
 ```
-# Lastly run:
 npm start
 ```
 
