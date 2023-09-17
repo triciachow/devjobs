@@ -10,9 +10,13 @@ This project was done for the University of London, CM3050 Mobile Development mo
 git clone https://github.com/triciachow/devjobs.git
 ```
 
-2. Ensure you are at the project root folder and launch the app:
+2. To launch the app:
 
 ```sh
+// Ensure you are at the project root folder
+npm install
+
+// Then run:
 npm start
 ```
 
